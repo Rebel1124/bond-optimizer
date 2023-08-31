@@ -1549,9 +1549,9 @@ def allocProfile(data, col, mtype, txt, height=315):
         #),
         title=dict(text=mtype,
                 font=dict(size=30),
-                automargin=True,
+                #automargin=True,
                 yref='paper'),
-                #margin=dict(l=0, r=0, b=0,t=50)
+                margin=dict(l=0, r=0, b=0,t=50)
     )
 
     figBucket.update_traces(textfont_size=12,
