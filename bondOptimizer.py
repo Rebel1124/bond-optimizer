@@ -947,7 +947,7 @@ def metrics(data):
 
     palette = px.colors.qualitative.Set3
 
-    colors = ['white', palette[1], 'white', palette[1], 'white']
+    colors = ['white', palette[1], 'white', palette[1], 'white', palette[1]]
 
     headerColor = palette[11]
   
@@ -1014,7 +1014,7 @@ def capitalSensitivity(data):
 
     palette = px.colors.qualitative.Set3
 
-    colors = ['white', palette[1], 'white', palette[1], 'white']
+    colors = ['white', palette[1], 'white', palette[1], 'white', palette[1]]
 
     headerColor = palette[11]
      
@@ -1070,7 +1070,7 @@ def totalSensitivity(data):
 
     palette = px.colors.qualitative.Set3
 
-    colors = ['white', palette[1], 'white', palette[1], 'white']
+    colors = ['white', palette[1], 'white', palette[1], 'white', palette[1]]
 
     headerColor = palette[11]
 
@@ -1181,7 +1181,7 @@ def userAllocation(data, baseProb, WorstProb, BestProb):
 
     palette = px.colors.qualitative.Set3
 
-    colors = ['white', palette[1], 'white', palette[1], 'white']
+    colors = ['white', palette[1], 'white', palette[1], 'white', palette[1]]
 
     headerColor = palette[11]
      
@@ -1443,7 +1443,7 @@ def baseAllocation(data):
 
     palette = px.colors.qualitative.Set3
 
-    colors = ['white', palette[1], 'white', palette[1], 'white']
+    colors = ['white', palette[1], 'white', palette[1], 'white', palette[1]]
 
     headerColor = palette[11]
      
